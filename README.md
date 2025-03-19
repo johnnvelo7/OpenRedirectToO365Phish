@@ -17,5 +17,5 @@ CRM API Endpoint: /crm10/api/public/runworkflow
 ![image](https://github.com/user-attachments/assets/37b7757b-87bf-40cf-a6d0-cf592fc5bbaa)
 
 Example:
-https://crm.workwisesoftware.com/crm10/api/public/runworkflow?workflow=ClickThru&activityid=https://velosecurity.com=doc&entityname=Contact&includecrmkeys=True&eventcode=CLICKSITE&redirecturl=https://velosecurity.com
+https://<vulnerable-site[.]com/crm10/api/public/runworkflow?workflow=ClickThru&activityid=https://velosecurity.com=doc&entityname=Contact&includecrmkeys=True&eventcode=CLICKSITE&redirecturl=https://velosecurity.com
 
